@@ -124,7 +124,7 @@ header {
 
 /* body sections */
 .body_section {
-    margin-top: 10rem;
+    margin-top: 6rem;
 }
 .analytic {
     padding: 10px;
@@ -180,6 +180,6 @@ table {
 table th,td {
     font-size: 16px;
     padding: 0.8rem;
-    color: rgb(179, 179, 170);
+    color: rgb(34, 34, 16);
     border-bottom: 1px solid rgb(220, 229, 238);
 }
